@@ -1,0 +1,13 @@
+C:\Users\marziyeh\source\repos\Simple LTS\Simple LTS\bin\Debug\Simple LTS.exe.config
+C:\Users\marziyeh\source\repos\Simple LTS\Simple LTS\bin\Debug\Simple LTS.exe
+C:\Users\marziyeh\source\repos\Simple LTS\Simple LTS\bin\Debug\Simple LTS.pdb
+C:\Users\marziyeh\source\repos\Simple LTS\Simple LTS\obj\Debug\Simple LTS.csproj.AssemblyReference.cache
+C:\Users\marziyeh\source\repos\Simple LTS\Simple LTS\obj\Debug\Simple LTS.csproj.SuggestedBindingRedirects.cache
+C:\Users\marziyeh\source\repos\Simple LTS\Simple LTS\obj\Debug\Simple_LTS.Form1.resources
+C:\Users\marziyeh\source\repos\Simple LTS\Simple LTS\obj\Debug\Simple_LTS.Properties.Resources.resources
+C:\Users\marziyeh\source\repos\Simple LTS\Simple LTS\obj\Debug\Simple LTS.csproj.GenerateResource.cache
+C:\Users\marziyeh\source\repos\Simple LTS\Simple LTS\obj\Debug\Simple LTS.csproj.CoreCompileInputs.cache
+C:\Users\marziyeh\source\repos\Simple LTS\Simple LTS\obj\Debug\Simple LTS.exe
+C:\Users\marziyeh\source\repos\Simple LTS\Simple LTS\obj\Debug\Simple LTS.pdb
+C:\Users\marziyeh\source\repos\Simple LTS\Simple LTS\obj\Debug\Simple_LTS.AddF.resources
+C:\Users\marziyeh\source\repos\Simple LTS\Simple LTS\obj\Debug\Simple_LTS.editF.resources
